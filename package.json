@@ -1,0 +1,21 @@
+{
+  "name": "casavip-website",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "http-server -p 4000 ./src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreborges-fe/casavip-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreborges-fe/casavip-website/issues"
+  },
+  "homepage": "https://github.com/andreborges-fe/casavip-website#readme",
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
